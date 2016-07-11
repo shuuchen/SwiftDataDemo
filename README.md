@@ -13,6 +13,10 @@ Extract all the data of iOS, including pedometer, GPS, phone book and calendar e
 * Swift 2 +
 * iOS 9 +
 
+## Acknowledgement
+* BTNavigationDropdownMenu
+ * https://github.com/PhamBaTho/BTNavigationDropdownMenu
+
 ## License
 * MIT
 
